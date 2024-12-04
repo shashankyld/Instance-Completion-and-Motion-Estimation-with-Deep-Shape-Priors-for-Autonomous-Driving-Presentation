@@ -10,19 +10,19 @@ dynamic perception in autonomous driving.
 
 [Tracking as a factorgraph notes](./tracking-as-factorgraphs.pdf)
 
-
-![Final Visualization showing Shape Completion and Motion Estimation](./images_presentation/blue_car_in_a_scene.gif)
-
-
-![Pipeline](./images_presentation/pipeline01.png)
-![](./images_presentation/pipeline.png)
+<p align="center">
+  <img src="./images_presentation/pipeline01.png" alt="Pipeline" width="45%" />
+  <img src="./images_presentation/pipeline.png" alt="Pipeline" width="45%" />
+</p>
 
 
-
-![](./images_presentation/cars_in_kitti.gif)
-
-![](images_presentation/joint_optimization.gif)
-
-
-![](images_presentation/mesh_vs_det_vs_gt.gif)
-
+<table>
+<tr>
+    <td><img src="./images_presentation/blue_car_in_a_scene.gif" alt="Visualization 1" width="100%"></td>
+    <td><img src="./images_presentation/cars_in_kitti.gif" alt="Visualization 2" width="100%"></td>
+</tr>
+<tr>
+    <td><img src="./images_presentation/joint_optimization.gif" alt="Visualization 3" width="100%"></td>
+    <td><img src="./images_presentation/mesh_vs_det_vs_gt.gif" alt="Visualization 4" width="100%"></td>
+</tr>
+</table>
