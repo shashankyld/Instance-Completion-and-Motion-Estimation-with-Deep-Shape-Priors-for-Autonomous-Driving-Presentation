@@ -10,12 +10,13 @@ dynamic perception in autonomous driving.
 
 [Tracking as a factorgraph notes](./notes/tracking-as-factorgraphs.pdf)
 
+## PIPEPLINE
 <p align="center">
   <img src="./images_presentation/pipeline01.png" alt="Pipeline" width="45%" />
   <img src="./images_presentation/pipeline.png" alt="Pipeline" width="45%" />
 </p>
 
-
+## RESULTS
 <table>
 <tr>
     <td><img src="./images_presentation/blue_car_in_a_scene.gif" alt="Visualization 1" width="100%"></td>
@@ -26,3 +27,7 @@ dynamic perception in autonomous driving.
     <td><img src="./images_presentation/mesh_vs_det_vs_gt.gif" alt="Visualization 4" width="100%"></td>
 </tr>
 </table>
+
+```
+Cleaner code: Coming Soon!
+```
