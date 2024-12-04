@@ -1,5 +1,7 @@
 # Instance-Completion-and-Motion-Estimation-with-Deep-Shape-Priors-for-Autonomous-Driving-Presentation
 
+[Notes](./tracking-as-factorgraphs.pdf)
+
 ![Final Visualization showing Shape Completion and Motion Estimation](./images_presentation/blue_car_in_a_scene.gif)
 
 ![](./images_presentation/cars_in_kitti.gif)
