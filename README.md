@@ -4,11 +4,11 @@ The main contribution of this project is a novel object
 tracking and reconstruction approach that combines learned shape priors with Gauss-Newton optimization for robust
 dynamic perception in autonomous driving.
 
-[Paper Style Report](./Final_report_MSRP-1.pdf)
+[Paper Style Report](./notes/Final_report_MSRP-1.pdf)
 
-[Joint Optimization Notes](./tracking-as-factorgraphs.pdf)
+[Joint Optimization Notes](./notes/tracking-as-factorgraphs.pdf)
 
-[Tracking as a factorgraph notes](./tracking-as-factorgraphs.pdf)
+[Tracking as a factorgraph notes](./notes/tracking-as-factorgraphs.pdf)
 
 <p align="center">
   <img src="./images_presentation/pipeline01.png" alt="Pipeline" width="45%" />
