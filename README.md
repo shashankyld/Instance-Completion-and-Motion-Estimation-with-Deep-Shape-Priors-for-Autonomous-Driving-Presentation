@@ -1,6 +1,6 @@
 # Instance-Completion-and-Motion-Estimation-with-Deep-Shape-Priors-for-Autonomous-Driving-Presentation
 
-The main contribution of this paper is a novel object
+The main contribution of this project is a novel object
 tracking and reconstruction approach that combines learned shape priors with Gauss-Newton optimization for robust
 dynamic perception in autonomous driving.
 
