@@ -1,0 +1,20 @@
+deepsdf_dir: /home/shashank/Documents/UniBonn/Sem2/MSR_P04/from_scratch/DEEP_SDF/weights/deepsdf/cars_64
+optimizer: 
+  code_len: 64
+  num_depth_samples: 50
+  joint_optim:
+    k1: 1.0
+    k2: 100 # K2 original 100 # SDF regularization
+    k3: 0.1 # Latent Code regularization Original 0.25
+    k4: 10000000 # # Rotation regularization Original 10000000
+    b1: 0.20
+    b2: 1  # Original 0.025
+    num_iterations: 10
+    learning_rate: 1.0
+    scale_damping: 0.001 # try 0.1 or look in yue pan whatsapp
+  pose_only_optim: 
+    num_iterations: 5
+    learning_rate: 1.0
+save_mesh_dir: results/deep_sdf/mesh
+
+# device: cpu # cuda

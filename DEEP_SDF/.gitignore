@@ -1,0 +1,5 @@
+reconstruct/.ipynb_checkpoints/
+reconstruct/__pycache__/
+deep_sdf/__pycache__/
+deep_sdf/networks/__pycache__/
+weights

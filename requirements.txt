@@ -1,0 +1,6 @@
+open3d==0.16.0
+bbox==0.9.4
+torch
+torchvision
+torchaudio
+scikit-image
